@@ -1,0 +1,1807 @@
+<tbody>
+                <!-- ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ1_ø1_ɑ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_8FWOm47F3x8QM0l" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ1_ø1_ɑ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_8FWOm47F3x8QM0l_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_8FWOm47F3x8QM0lTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ1_ø1_ø2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_8kbtQj2tmoFFVI1" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ1_ø1_ø2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_8kbtQj2tmoFFVI1_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_8kbtQj2tmoFFVI1Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ1_ø2_ɑ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_9TV5KHUHaN3dDDv" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ1_ø2_ɑ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_9TV5KHUHaN3dDDv_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_9TV5KHUHaN3dDDvTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ1_ø2_ø1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_5d3JlCfvwwoUf9H" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ1_ø2_ø1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_5d3JlCfvwwoUf9H_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_5d3JlCfvwwoUf9HTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ1_ɯ1_ɑ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_3q0fRrV11eOGJq5" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ1_ɯ1_ɑ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_3q0fRrV11eOGJq5_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_3q0fRrV11eOGJq5Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ1_ɯ1_ɯ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_7ZMMRVqDddcdgBD" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ1_ɯ1_ɯ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_7ZMMRVqDddcdgBD_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_7ZMMRVqDddcdgBDTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ1_ɯ2_ɑ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_9BNetq7AE2uspMh" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ1_ɯ2_ɑ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_9BNetq7AE2uspMh_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_9BNetq7AE2uspMhTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ1_ɯ2_ɯ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_4MaZz5CfbweQYux" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ1_ɯ2_ɯ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_4MaZz5CfbweQYux_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_4MaZz5CfbweQYuxTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ2_ø1_ɑ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_d3V0shQGvGfXCjb" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ2_ø1_ɑ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_d3V0shQGvGfXCjb_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_d3V0shQGvGfXCjbTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ2_ø1_ø2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_3f9Gp0VKNV6dJkN" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ2_ø1_ø2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_3f9Gp0VKNV6dJkN_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_3f9Gp0VKNV6dJkNTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ2_ø2_ɑ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_2ttXm2LQmuqbw5n" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ2_ø2_ɑ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_2ttXm2LQmuqbw5n_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_2ttXm2LQmuqbw5nTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ2_ø2_ø1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_b7xMSAq7hLPpV2J" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ2_ø2_ø1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_b7xMSAq7hLPpV2J_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_b7xMSAq7hLPpV2JTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ2_ɯ1_ɑ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_0UnnLwkX2MhPPLL" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ2_ɯ1_ɑ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_0UnnLwkX2MhPPLL_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_0UnnLwkX2MhPPLLTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ2_ɯ1_ɯ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_0xjl6BrruQTO75z" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ2_ɯ1_ɯ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_0xjl6BrruQTO75z_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_0xjl6BrruQTO75zTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ2_ɯ2_ɑ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_enFHrtp13ru06sR" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ2_ɯ2_ɑ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_enFHrtp13ru06sR_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_enFHrtp13ru06sRTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɑ2_ɯ2_ɯ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_8w4YiFcKBiVclGB" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɑ2_ɯ2_ɯ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_8w4YiFcKBiVclGB_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_8w4YiFcKBiVclGBTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø1_ɑ1_ɑ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_9H82ZSmuUprCOvH" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø1_ɑ1_ɑ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_9H82ZSmuUprCOvH_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_9H82ZSmuUprCOvHTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø1_ɑ1_ø2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_eQyoXe72cFN1six" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø1_ɑ1_ø2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_eQyoXe72cFN1six_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_eQyoXe72cFN1sixTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø1_ɑ2_ɑ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_2r7RTXQOetRj34V" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø1_ɑ2_ɑ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_2r7RTXQOetRj34V_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_2r7RTXQOetRj34VTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø1_ɑ2_ø2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_0Btk1kHIJCB2eR7" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø1_ɑ2_ø2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_0Btk1kHIJCB2eR7_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_0Btk1kHIJCB2eR7Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements -->
+              </tbody>
+
+              <tbody>
+                <!-- ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø1_ʊ1_ø2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_7TAPmJbrQRG80rb" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø1_ʊ1_ø2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_7TAPmJbrQRG80rb_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_7TAPmJbrQRG80rbTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø1_ʊ1_ʊ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_5cGGpHREXRVvtzL" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø1_ʊ1_ʊ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_5cGGpHREXRVvtzL_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_5cGGpHREXRVvtzLTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø1_ʊ2_ø2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_24D0OyC7Sv1yt9j" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø1_ʊ2_ø2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_24D0OyC7Sv1yt9j_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_24D0OyC7Sv1yt9jTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø1_ʊ2_ʊ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_0kZmN7uCeWpwQhn" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø1_ʊ2_ʊ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_0kZmN7uCeWpwQhn_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_0kZmN7uCeWpwQhnTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø2_ɑ1_ɑ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_07yA9Kzx9g2gSDH" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø2_ɑ1_ɑ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_07yA9Kzx9g2gSDH_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_07yA9Kzx9g2gSDHTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø2_ɑ1_ø1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_5cB0hQdqRu5E4pD" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø2_ɑ1_ø1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_5cB0hQdqRu5E4pD_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_5cB0hQdqRu5E4pDTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø2_ɑ2_ɑ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_9zTvnPOtBriQBi5" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø2_ɑ2_ɑ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_9zTvnPOtBriQBi5_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_9zTvnPOtBriQBi5Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø2_ɑ2_ø1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_9oTPswNU3yl6Sup" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø2_ɑ2_ø1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_9oTPswNU3yl6Sup_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_9oTPswNU3yl6SupTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø2_ʊ1_ø1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_d5y0DnAzdlpSkex" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø2_ʊ1_ø1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_d5y0DnAzdlpSkex_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_d5y0DnAzdlpSkexTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø2_ʊ1_ʊ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_8vUobkaMPX48fWJ" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø2_ʊ1_ʊ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_8vUobkaMPX48fWJ_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_8vUobkaMPX48fWJTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø2_ʊ2_ø1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_8J0WlEg60cisn77" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø2_ʊ2_ø1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_8J0WlEg60cisn77_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_8J0WlEg60cisn77Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ø2_ʊ2_ʊ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_do4X3x53Pda25zn" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ø2_ʊ2_ʊ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_do4X3x53Pda25zn_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_do4X3x53Pda25znTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ1_ɑ1_ɑ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_3CAyG0jFTf9kk0R" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ1_ɑ1_ɑ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_3CAyG0jFTf9kk0R_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_3CAyG0jFTf9kk0RTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ1_ɑ1_ɯ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_3QNXyVTmrHstDoN" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ1_ɑ1_ɯ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_3QNXyVTmrHstDoN_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_3QNXyVTmrHstDoNTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ1_ɑ2_ɑ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_cZPlTFvSwUimJ6Z" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ1_ɑ2_ɑ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_cZPlTFvSwUimJ6Z_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_cZPlTFvSwUimJ6ZTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ1_ɑ2_ɯ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_eyBSHyJBcwH8kYd" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ1_ɑ2_ɯ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_eyBSHyJBcwH8kYd_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_eyBSHyJBcwH8kYdTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ1_ʊ1_ɯ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_eIZVDjn8j52snBz" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ1_ʊ1_ɯ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_eIZVDjn8j52snBz_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_eIZVDjn8j52snBzTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ1_ʊ1_ʊ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_cC3F79G2U1IlbMh" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ1_ʊ1_ʊ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_cC3F79G2U1IlbMh_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_cC3F79G2U1IlbMhTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ1_ʊ2_ɯ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_4Zuce7Ih7TMLyTj" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ1_ʊ2_ɯ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_4Zuce7Ih7TMLyTj_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_4Zuce7Ih7TMLyTjTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ1_ʊ2_ʊ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_9Ks7LLMZWJV8nUV" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ1_ʊ2_ʊ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_9Ks7LLMZWJV8nUV_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_9Ks7LLMZWJV8nUVTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements -->
+              </tbody>
+
+              <tbody>
+                <!-- ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ2_ɑ1_ɑ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_1TFM8ktLqpAoYLz" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ2_ɑ1_ɑ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_1TFM8ktLqpAoYLz_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_1TFM8ktLqpAoYLzTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ2_ɑ1_ɯ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_3sWxan5N7aYXK97" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ2_ɑ1_ɯ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_3sWxan5N7aYXK97_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_3sWxan5N7aYXK97Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ2_ɑ2_ɑ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_0NbmaRLkKSTCoHb" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ2_ɑ2_ɑ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_0NbmaRLkKSTCoHb_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_0NbmaRLkKSTCoHbTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ2_ɑ2_ɯ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_beIPpEW3SubUgCN" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ2_ɑ2_ɯ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_beIPpEW3SubUgCN_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_beIPpEW3SubUgCNTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ2_ʊ1_ɯ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_4IuXlygy4xcLGgB" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ2_ʊ1_ɯ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_4IuXlygy4xcLGgB_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_4IuXlygy4xcLGgBTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ2_ʊ1_ʊ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_0H5pm87HoEH76br" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ2_ʊ1_ʊ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_0H5pm87HoEH76br_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_0H5pm87HoEH76brTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ2_ʊ2_ɯ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_3xfUISlSmJjRr49" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ2_ʊ2_ɯ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_3xfUISlSmJjRr49_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_3xfUISlSmJjRr49Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ɯ2_ʊ2_ʊ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_0ojWJL2zjBbLsLH" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ɯ2_ʊ2_ʊ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_0ojWJL2zjBbLsLH_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_0ojWJL2zjBbLsLHTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ1_ø1_ø2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_8BRwvPOBBNBvgLX" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ1_ø1_ø2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_8BRwvPOBBNBvgLX_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_8BRwvPOBBNBvgLXTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ1_ø1_ʊ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_8ueVvU8hPMiFSZv" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ1_ø1_ʊ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_8ueVvU8hPMiFSZv_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_8ueVvU8hPMiFSZvTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ1_ø2_ø1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_6XQzbAbOqXEXd3v" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ1_ø2_ø1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_6XQzbAbOqXEXd3v_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_6XQzbAbOqXEXd3vTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ1_ø2_ʊ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_eJoyzIQS8ijYHBz" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ1_ø2_ʊ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_eJoyzIQS8ijYHBz_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_eJoyzIQS8ijYHBzTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ1_ɯ1_ɯ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_9Nc2Z7vizU3x2AJ" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ1_ɯ1_ɯ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_9Nc2Z7vizU3x2AJ_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_9Nc2Z7vizU3x2AJTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ1_ɯ1_ʊ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_d72kez5jRhxablP" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ1_ɯ1_ʊ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_d72kez5jRhxablP_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_d72kez5jRhxablPTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ1_ɯ2_ɯ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_5w06HIV7xveO8v3" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ1_ɯ2_ɯ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_5w06HIV7xveO8v3_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_5w06HIV7xveO8v3Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ1_ɯ2_ʊ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_0UuKcZiXbfLEhqR" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ1_ɯ2_ʊ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_0UuKcZiXbfLEhqR_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_0UuKcZiXbfLEhqRTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ2_ø1_ø2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_8exgQ1hzu4FESWx" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ2_ø1_ø2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_8exgQ1hzu4FESWx_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_8exgQ1hzu4FESWxTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ2_ø1_ʊ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_6L8gGQFsNPupLh3" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ2_ø1_ʊ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_6L8gGQFsNPupLh3_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_6L8gGQFsNPupLh3Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ2_ø2_ø1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_6ECd4W8j3GLKNmZ" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ2_ø2_ø1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_6ECd4W8j3GLKNmZ_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_6ECd4W8j3GLKNmZTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ2_ø2_ʊ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_5aQNLKXtd50mnBj" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ2_ø2_ʊ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_5aQNLKXtd50mnBj_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_5aQNLKXtd50mnBjTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements -->
+              </tbody>
+
+              <tbody>
+                <!-- ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ2_ɯ1_ɯ2.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_72tE5xtx7zGlKdv" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ2_ɯ1_ɯ2.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_72tE5xtx7zGlKdv_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_72tE5xtx7zGlKdvTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ2_ɯ1_ʊ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_b26JdQ1hitL4Jc9" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ2_ɯ1_ʊ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_b26JdQ1hitL4Jc9_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_b26JdQ1hitL4Jc9Tasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ2_ɯ2_ɯ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_3eHp5iFWNpKtSER" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ2_ɯ2_ɯ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_3eHp5iFWNpKtSER_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_3eHp5iFWNpKtSERTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements --><tr file-drag-element="" name="~ʊ2_ɯ2_ʊ1.wav" type=".WAV" class="hoverable drag-no-hover ng-scope angular-ui-tree-node" id="F_dilnLdeEgSG1mnj" ui-tree-node="dragStyles" ng-repeat="file in filteredElements" ng-click="showPreview(file)" collapsed="false">
+                  <td class="file-icon-container">
+                    <div class="icon icon-blankfile-lg" ng-class="getIconType(file.type)"></div>
+                  </td>
+                  <td class="file-description-container">
+                    <div class="file-description ng-binding" ng-show="!isEditingFile(file)">
+                      ~ʊ2_ɯ2_ʊ1.wav
+                    </div>
+                    <div class="file-description-input">
+                      <input id="F_dilnLdeEgSG1mnj_Editing_Name" class="Description ng-pristine ng-untouched ng-valid ng-isolate-scope ng-not-empty ng-hide" type="text" ng-model="file.name" ng-show="isEditingFile(file)" focus-on-visibility="isEditingFile(file)" ng-enter-esc="saveFileName(file)" ng-change="onDescriptionChange(file)">
+                    </div>
+                  </td>
+                  <td class="file-type ng-binding">
+                    WAV
+                  </td>
+                  <td class="datetime file-modified-date">
+                    <span class="date ng-binding">Dec 8, 2019</span>
+                    <span class="time ng-binding">11:25 AM</span>
+                  </td>
+                  <td class="file-size ng-binding">
+                    444 KB
+                  </td>
+                  <td class="file-tasks actions-column" id="F_dilnLdeEgSG1mnjTasks" ng-click="showTaskMenu(file); $event.stopPropagation()" data-nodrag="true">
+                    <div class="icon-container">
+                      <span class="icon icon-gear"></span>
+                      <span class="icon icon-angle-down-sm"></span>
+                    </div>
+                  </td>
+                </tr><!-- end ngRepeat: file in filteredElements -->
+              </tbody>
